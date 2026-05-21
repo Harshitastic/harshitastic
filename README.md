@@ -1,45 +1,100 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">
+  Hi 👋, I'm Harshit
+</h1>
 
-<br />
+<h3 align="center">
+  B.Tech IT Student • Competitive Programmer • Developer
+</h3>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Competitive+Programmer;DSA+Enthusiast;Web+Development+Learner;Photography+Enthusiast" />
+</p>
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+## 🚀 About Me
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🎓 B.Tech IT student at NIT Raipur
+- 💻 Passionate about DSA & Competitive Programming
+- ⚡ Solving problems on LeetCode, Codeforces & CSES
+- 🌱 Currently learning Web Development
+- 📸 Interested in Photography & Editing
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+## 🛠 Languages & Tools
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,vscode" />
+</p>
 
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 📊 GitHub Stats
 
-#### Top Repositories
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitastic&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitastic&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+## 🔥 GitHub Streak
 
-<br />
-<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitastic&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitastic&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitastic&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/harshitastic/LC-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitastic&repo=LC-solutions&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/harshitastic/CP-solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitastic&repo=CP-solutions&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/harshitastic/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+
+  <a href="https://www.instagram.com/harshitimg/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="https://github.com/harshitastic">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Consistency • Learning • Building • Growing ✨
+</p>
